@@ -1,0 +1,14 @@
+{
+  "name": "expressions",
+  "version": "0.0.0",
+  "description": "Expressions",
+  "main": "app.js",
+  "author": {
+    "name": "Castelli"
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
